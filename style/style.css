@@ -30,6 +30,7 @@ body {
     text-decoration: none;
     border: 2px solid #22D4FD;
     border-radius: 8px;
+    padding: 1% 1%;
 }
 
 .titulo-destaque {
@@ -163,8 +164,11 @@ body {
         box-sizing: border-box;
     }
 
-
     .footer {
         font-size: 18px;
     }
 }
+
+
+
+
